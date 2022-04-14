@@ -1,0 +1,54 @@
+{
+  "MmSzP0BAx2QoLu0WTuXTSjBHsox2" : {
+    "Accuracy" : 70.3125,
+    "certificate" : "chicigc",
+    "certificate_status" : "Pending",
+    "email" : "aayushagrawal0720@gmail.com",
+    "name" : "Aayush Agrawal",
+    "noti_token" : "eH6RoD0lR5-AgcMM0S8Fzw:APA91bEK1B7yvxhKnIsBN8IGJnmtdwzVdLhqj-ALRs1kaYBToMtKn1fGs8n9tC4EFs475nn2pYo1oOLhcyG_NpHTrPQoN9HpVggM23T5rHVfENYt319W71FFsoqQuPzPaQgWH1vERlZg",
+    "paymentDetails" : {
+      "Type" : "Saving",
+      "acc_no" : "20419981284",
+      "accname" : "fshznvxn",
+      "gpay" : "7415581675",
+      "ifsc_code" : "hchzzjgxnx",
+      "ppay" : "7415581675"
+    },
+    "phone_no" : "+917415581675",
+    "uid" : "MmSzP0BAx2QoLu0WTuXTSjBHsox2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 34700
+  },
+  "NOlAWFrK41e4TLYuW7w4Hvwjy2S2" : {
+    "Accuracy" : 66.66666666666666,
+    "certificate" : "aks3",
+    "certificate_status" : "Pending",
+    "email" : "akgupta7501@gmail.com",
+    "name" : "Akshay Gupta",
+    "noti_token" : "eotOoSZCTmqr6NeipTFBzo:APA91bGkbmPm7Sxn0FiJshf4_TMRQx4yI4nEPBivMccwWeCB6zSQfsJsywSGcpOgJUswOL-1Tr-7hoasdhl3c085fuiBRd-RtAU8b28yCgEh-NIEiHuiNMREV1yNjRK1IImrcK8dUu5J",
+    "paymentDetails" : {
+      "Type" : "Saving",
+      "acc_no" : "39699976170",
+      "accname" : "Akshay Gupta ",
+      "gpay" : "",
+      "ifsc_code" : "SBIN0017099",
+      "ppay" : "8085261322"
+    },
+    "phone_no" : "+918085261322",
+    "uid" : "NOlAWFrK41e4TLYuW7w4Hvwjy2S2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 1650
+  },
+  "mQonMMnZcbUTTur23B7ZEmPW7gA3" : {
+    "Accuracy" : 0,
+    "certificate" : "qwerty",
+    "certificate_status" : "Pending",
+    "email" : "nikhilsoni7991@gmail.com",
+    "name" : "Nikhil Soni",
+    "noti_token" : "cCihb_loRFu1cn-pIZPyiS:APA91bGMlaSaRrysEE7QuqKaC2AZHXqnJVX6mlbB5GIIxBXUoJ1efm4DLAhKNzKIrtfoeH3a0PSXT9NVJMoXfUTLpgVRmNaTLtpuxbyKHVYf5JVF4TRIyACFfKEbEqR486eCtVkyMqdQ",
+    "phone_no" : "+917000295548",
+    "uid" : "mQonMMnZcbUTTur23B7ZEmPW7gA3",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 10500
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "6DznwLLPMQfm9G20DTd6qUTpGXe2" : {
+    "email" : "ashpan62@gmail.com",
+    "name" : "ashish pandey",
+    "noti_token" : "erQUtoj8TWyAcscBug3SaS:APA91bGR1sU9yiOf5hvQ-NtjiMUvry46vahbRQ3wyb6ODeeyXcPRYpf19WCMbhNuFoAoQO79DLGfLWLrqZ36BWr9QA4uNQD89FGAMmz9KulUmL8lmJ6qJw-zAHB-RVDPaQT1mR17yue1",
+    "phone_no" : "+919340211745",
+    "tid" : "6DznwLLPMQfm9G20DTd6qUTpGXe2",
+    "url" : "null",
+    "wallet" : 100
+  },
+  "DieXuIjXxsUPBEisroBNHJTe7x82" : {
+    "email" : "vivekp565859@gmail.com",
+    "name" : "Vivek",
+    "noti_token" : "eE5DNiDiSL2XIcEYt7Cl6_:APA91bF52bhb01uz3QWWA5u-VBMzV0C3-ISptNbYr0O9kfPxKAO0Rtnaczs9d_6PQLBCK6d-vF4tVI-1PKrzKyAq2JnRZqYhun8yKeM0WBUccao-E-oTKcLiCZkAPW3zfjD1dPJcI-5i",
+    "phone_no" : "+919009734494",
+    "tid" : "DieXuIjXxsUPBEisroBNHJTe7x82",
+    "url" : "null",
+    "wallet" : 100
+  },
+  "MmSzP0BAx2QoLu0WTuXTSjBHsox2" : {
+    "Accuracy" : 72.72727272727273,
+    "advisor":true,
+    "certificate" : "chicigc",
+    "certificate_status" : "Pending",
+    "email" : "aayushagrawal0720@gmail.com",
+    "name" : "Aayush Agrawal",
+    "noti_token" : "fvW-lwSdSAah0-NsnuZgck:APA91bHRNP1eEHy3Ug7gIDAErnSRKKdGgfnnuuwUqGVfoxk7s4F1Zfg0dHKB1JcItlsISN80ShtF3nMjKNdFOigDGYcCgWOL62_ETOkU-UAqmFxjhLA00mhbJsMnWnU_1h-7IUhbYL8l",
+    "paymentDetails" : {
+      "Type" : "Saving",
+      "acc_no" : "20419981284",
+      "accname" : "fshznvxn",
+      "gpay" : "7415581675",
+      "ifsc_code" : "hchzzjgxnx",
+      "ppay" : "7415581675"
+    },
+    "phone_no" : "+917415581675",
+    "uid" : "MmSzP0BAx2QoLu0WTuXTSjBHsox2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 30400
+  },
+  "NOlAWFrK41e4TLYuW7w4Hvwjy2S2" : {
+    "Accuracy" : 60,
+    "advisor":true,
+    "certificate" : "aks3",
+    "certificate_status" : "Pending",
+    "email" : "akgupta7501@gmail.com",
+    "name" : "Akshay Gupta",
+    "noti_token" : "eotOoSZCTmqr6NeipTFBzo:APA91bGkbmPm7Sxn0FiJshf4_TMRQx4yI4nEPBivMccwWeCB6zSQfsJsywSGcpOgJUswOL-1Tr-7hoasdhl3c085fuiBRd-RtAU8b28yCgEh-NIEiHuiNMREV1yNjRK1IImrcK8dUu5J",
+    "phone_no" : "+918085261322",
+    "uid" : "NOlAWFrK41e4TLYuW7w4Hvwjy2S2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 500
+  },
+  "PFr78QfesGYhhzNkPekbSXD0try2" : {
+    "email" : "lohvengahatraj@gmail.com",
+    "name" : "Lohven",
+    "noti_token" : "f3r-DFrrTQSNj5UePAEOAt:APA91bE3fcD-00UVjcTtjx-rKgP40cbUah8LLqO7sdFmC2Jd8532hhfY20xjFejLv3vq3lUVv7XxA7DdGsYc4AyYjsqnNsb_NLn9jFHeIOaUtTWk0_QfEvWNiFYVU9-WVhRhD6DoKqrV",
+    "phone_no" : "+918962800452",
+    "tid" : "PFr78QfesGYhhzNkPekbSXD0try2",
+    "url" : "null",
+    "wallet" : 100
+  },
+  "SMml5wQ5GbNnMxDTKvLVSSzNhQu2" : {
+    "noti_token" : "cIdGmmjRSOCkobGzrn_CWX:APA91bHtZ0UjZMX_eWJINxVU50mXlWvgGaK9D3z1gqj0j0hHMaySAj6yuMIoMgqpt0zLvST9Oj9FCzWpshUXkIl7y3mPtcHiDCsidwKpq9kM8Mq7tfSGfMki_SVIyLjXZKsQg7XrIU-K"
+  },
+  "YGIR5JcEFlNIfjaJtnD2YTutRTM2" : {
+    "email" : "rakeshhaldkar20009@gmail.com",
+    "name" : "Rakesh Kumar",
+    "noti_token" : "d8-1Ano5Q8aazDGKnXOXoc:APA91bHB5hZxWU6ZyOazuyTWTXbRiX5d0vchF0kmUpatOG-Jc5gGIiTz79oISTxlVZTTKrdYHtnduplooKlMC-h2sSmLZzj-dGmGFFYQmkbkb8zpsyRfcAa0WXxgXSJf-WQsG3o-6PdI",
+    "phone_no" : "+919300772397",
+    "tid" : "YGIR5JcEFlNIfjaJtnD2YTutRTM2",
+    "url" : "null",
+    "wallet" : 0
+  },
+  "aTPlqw00ORcazx5x2GGPQzjWo3K3" : {
+    "email" : "Soni.nikhil1997@gmail.com",
+    "name" : "Nikhil Soni",
+    "noti_token" : "cjCpL1HYRme1vd4mZIIu-D:APA91bFZiiTFFyvVhdZ0vZbc6vAVXzX-nQ_0Cbh6dsAgx3jz-KiwqfR5MklT6qqE54pUycTe_sxdFarp2XYM_-r-avBHYFLaVyS84R6Te0MQL7YzFyw5yd75CBcgqYTNAXKZZLgCLIIW",
+    "phone_no" : "+918962170932",
+    "tid" : "aTPlqw00ORcazx5x2GGPQzjWo3K3",
+    "url" : "null",
+    "wallet" : 50
+  },
+  "mQonMMnZcbUTTur23B7ZEmPW7gA3" : {
+    "Accuracy" : 0,
+    "advisor":true,
+    "email" : "nikhilsoni7991@gmail.com",
+    "name" : "Nikhil Soni",
+    "noti_token" : "cv9FgxUnRuGb71w6ay_e9y:APA91bFG7KXTiuEgT17N7OavVLLZ2Q0S6H8FC4uo5r958nYf4J06iY7ChLdhaIWdE3TTJJoCqfIQutVWphaKdm0me8F2z8WVJD362yNtOoLjxtN2xQK4oq7J_3uDQVoJoEaIVtjN_4bh",
+    "phone_no" : "+917000295548",
+    "uid" : "mQonMMnZcbUTTur23B7ZEmPW7gA3",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 10000
+  },
+  "r78IZayFCRUfi77H7VRQZQyx9593" : {
+    "email" : "davegroupof@gmail.com",
+    "name" : "Aakash",
+    "noti_token" : "cgnXBFmUSoqHUyeX5rRX0b:APA91bHIgwXwzE3OgLJMfH-lWDv0ES7X7KMV153TSpkXwhc8vXgC6KBmBmdPyO4enN8ZGqSUrL89N983ZKblbBs4zBLiqxfrgJHGTB9PRr9KQzU-Y24MYVkbf3DzB0zK1iX0NmRg6FkH",
+    "phone_no" : "+918962144108",
+    "tid" : "r78IZayFCRUfi77H7VRQZQyx9593",
+    "url" : "null",
+    "wallet" : 100
+  }
+}

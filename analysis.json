@@ -1,0 +1,258 @@
+{
+  "Ascending Triangle  " : {
+    "desc" : "An ascending triangle is a chart pattern used in technical analysis. It is created by price moves that allow for a horizontal line to be drawn along the swing highs, and a rising trendline to be drawn along the swing lows. The two lines form a triangle. Traders often watch for breakouts from triangle patterns",
+    "img" : "img"
+  },
+  "Bearish Engulfing" : {
+    "desc" : "A bearish engulfing pattern is a technical chart pattern that signals lower prices to come. The pattern consists of an up (white or green) candlestick followed by a large down (black or red) candlestick that eclipses or \"engulfs\" the smaller up candle. The pattern can be important because it shows sellers have overtaken ramithe buyers and are pushing the price more aggressively down (down candle) than the buyers were able to push it up (up candle).",
+    "img" : "img"
+  },
+  "Bearish Harami" : {
+    "desc" : "A bearish harami is a two bar Japanese candlestick pattern that suggests prices may soon reverse to the downside. The pattern consists of a long white candle followed by a small black candle. The opening and closing prices of the second candle must be contained within the body of the first candle.",
+    "img" : "img"
+  },
+  "Bearish Kicker" : {
+    "desc" : "Bearish Kicker Candlestick Pattern is an indication of massive change in the sentiments of the market/ investors and is basically based on sudden surprise news. The Strength of this pattern is maximized, if there is formation of gap down by day two candlestick.",
+    "img" : "img"
+  },
+  "Bearish abandoned baby " : {
+    "desc" : "A bearish abandoned baby is a specialized candlestick pattern consisting of three candles, one with rising prices, a second with holding prices, and a third with falling prices. Technical analysts expect that this pattern signals at least a short-term reversal in a currently upward trending price",
+    "img" : "img"
+  },
+  "Bearish spinning top" : {
+    "desc" : "A spinning top is a candlestick pattern that has a short real body that's vertically centered between long upper and lower shadows. The candlestick pattern represents indecision about the future direction of the asset. It means that neither buyers nor sellers could gain the upper hand.",
+    "img" : "img"
+  },
+  "Bullish Abandoned Baby" : {
+    "desc" : "The bullish abandoned baby is a three-bar pattern following a downtrend. It consists of a strong down candle, a gapped down doji, and then a strong bullish candle that gaps up. This pattern signals the potential end of a downtrend and the start of a price move higher.Some traders allow for slight variation. There may be more than one doji, or gaps may not be present after the first or second candle. But the overall psychology of the pattern should still be present.",
+    "img" : "img"
+  },
+  "Bullish Engulfing " : {
+    "desc" : "The Bullish Engulfing pattern is a two-candle reversal pattern. The second candle completely ‘engulfs’ the real body of the first one, without regard to the length of the tail shadows. The Bullish Engulfing pattern appears in a downtrend and is a combination of one dark candle followed by a larger hollow candle. On the second day of the pattern, price opens lower than the previous low, yet buying pressure pushes the price up to a higher level than the previous high, culminating in an obvious win for the buyers. It is advisable to enter a long position when the price moves higher than the high of the second engulfing candle—in other words when the downtrend reversal is confirmed.",
+    "img" : "img"
+  },
+  "Bullish Harami" : {
+    "desc" : "A bullish harami is a basic candlestick chart pattern indicating that a bearish trend in an asset or market may be reversing. A bullish harami is a candlestick chart indicator suggesting that a bearish trend may be coming to end. Some investors may look at a bullish harami as a good sign that they should enter a long position on an asset.",
+    "img" : "img"
+  },
+  "Bullish Kicker" : {
+    "desc" : "A bullish kicker pattern indicates that the stock prices could be on the rise. Such an arrangement can be seen below: As shown, a bullish kicker pattern starts with a black (bearish) candlestick, which is then followed by a white (bullish) candlestick that opens above the black candlestick, creating a large upward gap",
+    "img" : "img"
+  },
+  "Bullish Spinning Top" : {
+    "desc" : "A spinning top is a candlestick pattern that has a short real body that's vertically centered between long upper and lower shadows. The candlestick pattern represents indecision about the future direction of the asset. It means that neither buyers nor sellers could gain the upper hand.",
+    "img" : "img"
+  },
+  "Cup and Handles" : {
+    "desc" : "The cup and handle is a bullish continuation pattern where an upward trend has paused, but will continue when the pattern is confirmed. The \"cup\" portion of the pattern should be a \"U\" shape that resembles the rounding of a bowl rather than a \"V\" shape with equal highs on both sides of the cup. The \"handle\" forms on the right side of the cup in the form of a short pullback that resembles a flag or pennant chart pattern.",
+    "img" : "img"
+  },
+  "Dark Cloud Cover" : {
+    "desc" : "Dark Cloud Cover is a bearish reversal candlestick pattern where a down candle (typically black or red) opens above the close of the prior up candle (typically white or green), and then closes below the midpoint of the up candle.The pattern is significant as it shows a shift in the momentum from the upside to the downside. The pattern is created by an up candle followed by a down candle. Traders look for the price to continue lower on the next (third) candle. This is called confirmation.",
+    "img" : "img"
+  },
+  "Descending Triangle " : {
+    "desc" : "A descending triangle is a bearish chart pattern used in technical analysis that is created by drawing one trend line that connects a series of lower highs and a second horizontal trend line that connects a series of lows. Oftentimes, traders watch for a move below the lower support trend line because it suggests that the downward momentum is building and a breakdown is imminent. Once the breakdown occurs, traders enter into short positions and aggressively help push the price of the asset even lower.",
+    "img" : "img"
+  },
+  "Diamond Bottom " : {
+    "desc" : "A diamond bottom is a bullish, trend reversal, chart pattern. A diamond bottom is formed by two juxtaposed symmetrical triangles, so forming a diamond. A diamond bottom has to be preceded by a bearish trend. This pattern marks the exhaustion of the selling current and investor indecision.",
+    "img" : "img"
+  },
+  "Diamond Top" : {
+    "desc" : "A diamond top formation is a chart pattern that can occur at or near market tops and can signal a reversal of an uptrend. A diamond top formation is so named because the trendlines connecting the peaks and troughs carved out by the security's price action form the shape of a diamond.",
+    "img" : "img"
+  },
+  "Doji " : {
+    "desc" : "A doji candlestick forms when a security's open and close are virtually equal for the given time period and generally signals a reversal pattern for technical analysts. In Japanese, \"doji\" means blunder or mistake, referring to the rarity of having the open and close price be exactly the same.",
+    "img" : "img"
+  },
+  "Double Bottom " : {
+    "desc" : "A double bottom, on the other hand, looks like the letter W and occurs when price tries to push through a support level, is denied, and makes a second unsuccessful attempt to breach the support level. This often results in a trend reversal, as shown in the figure below.",
+    "img" : "img"
+  },
+  "Double Top" : {
+    "desc" : "Double tops and bottoms signal areas where the market has made two unsuccessful attempts to break through a support or resistance level. In the case of a double top, which often looks like the letter M, an initial push up to a resistance level is followed by a second failed attempt, resulting in a trend reversal.",
+    "img" : "img"
+  },
+  "Dragonfly Doji" : {
+    "desc" : "A Dragonfly Doji is a type of candlestick pattern that can signal a potential reversal in price to the downside or upside, depending on past price action. It's formed when the asset's high, open, and close prices are the same. The long lower shadow suggests that there was aggressive selling during the period of the candle, but since the price closed near the open it shows that buyers were able to absorb the selling and push the price back up.",
+    "img" : "img"
+  },
+  "Elliott Wave" : {
+    "desc" : "The Elliott Wave Theory is a form of technical analysis that looks for recurrent long-term price patterns related to persistent changes in investor sentiment and psychology. The theory identifies impulse waves that set up a pattern and corrective waves that oppose the larger tren.Each set of waves is nested within a larger set of waves that adhere to the same impulse or corrective pattern, which is described as a fractal approach to investing.",
+    "img" : "img"
+  },
+  "Evening Doji Star" : {
+    "desc" : "A Evening Doji Star consists of a long bullish candle, followed by a Doji that has gapped above it, then a third bearish candle that closes well within the body of the first candle and in doing so confirming the reversal. It is considered a strong bearish price reversal candlestick pattern.",
+    "img" : "img"
+  },
+  "Evening star" : {
+    "desc" : "An evening star is a stock-price chart pattern used by technical analysts to detect when a trend is about to reverse. It is a bearish candlestick pattern consisting of three candles: a large white candlestick, a small-bodied candle, and a red candle.",
+    "img" : "img"
+  },
+  "Falling Flags" : {
+    "desc" : "the price action rises during the initial trend move and then declines through the consolidation area. The breakout may not always have a high volume surge, but analysts and traders prefer to see one because it implies that investors and other traders have entered the stock in a new wave of enthusiasm",
+    "img" : "img"
+  },
+  "Falling Pennant" : {
+    "desc" : "a pennant is a type of continuation pattern formed when there is a large movement in a security, known as the flagpole, followed by a consolidation period with converging trend lines—the pennant—followed by a breakout movement in the same direction as the initial large movement, which represents the second half of the flagpole.",
+    "img" : "img"
+  },
+  "Falling Three" : {
+    "desc" : "The \"falling three methods\" is a bearish, five candle continuation pattern that signals an interruption, but not a reversal, of a current downtrend. The pattern is characterized by two long candlesticks in the direction of the trend—in this case, down—at the beginning and end, with three shorter counter-trend candlesticks in the middle.",
+    "img" : "img"
+  },
+  "Falling Wedges" : {
+    "desc" : "When a security's price has been falling over time, a wedge pattern can occur just as the trend makes its final downward move. The trend lines drawn above the highs and below the lows on the price chart pattern can converge as the price slide loses momentum and buyers step in to slow the rate of decline. Before the lines converge, price may breakout above the upper trend line.",
+    "img" : "img"
+  },
+  "Flag High & tight" : {
+    "desc" : "The high tight flag chart pattern is an extremely rare, bullish formation. Stocks that have amazing fundamentals generally form these. Despite the already big move before the base emerges, the breakouts from this pattern are explosive.                          ",
+    "img" : "img"
+  },
+  "Gaps" : {
+    "desc" : "A gap is an area discontinuity in a security's chart where its price either rises or falls from the previous day’s close with no trading occurring in between. Gaps are common when news causes market fundamentals to change during hours when markets are typically closed, for instance an earnings call after-hours",
+    "img" : "img"
+  },
+  "Gravestone Doji" : {
+    "desc" : "A gravestone doji is a bearish reversal candlestick pattern that is formed when the open, low, and closing prices are all near each other with a long upper shadow. The long upper shadow suggests that the bullish advance in the beginning of the session was overcome by bears by the end of the session, which often comes just before a longer term bearish downtrend.",
+    "img" : "img"
+  },
+  "Hammer" : {
+    "desc" : "A hammer is a price pattern in candlestick charting that occurs when a security trades significantly lower than its opening, but rallies within the period to close near the opening price. This pattern forms a hammer-shaped candlestick, in which the lower shadow is at least twice the size of the real body. The body of the candlestick represents the difference between the open and closing prices, while the shadow shows the high and low prices for the period.",
+    "img" : "img"
+  },
+  "Hanging Man" : {
+    "desc" : "A hanging man candlestick occurs during an uptrend and warns that prices may start falling. The candle is composed of a small real body, a long lower shadow, and little or no upper shadow. The hanging man shows that selling interest is starting to increase. In order for the pattern to be valid, the candle following the hanging man must see the price of the asset decline.",
+    "img" : "img"
+  },
+  "Head and Shoulders" : {
+    "desc" : "Head and shoulders patterns can appear at market tops or bottoms as a series of three pushes: an initial peak or trough, followed by a second and larger one and then a third push that mimics the first. An uptrend that is interrupted by a head and shoulders top pattern may experience a trend reversal, resulting in a downtrend. Conversely, a downtrend that results in a head and shoulders bottom (or an inverse head and shoulders) will likely experience a trend reversal to the upside.",
+    "img" : "img"
+  },
+  "Head and Shoulders Inverted" : {
+    "desc" : "An inverse head and shoulders, also called a \"head and shoulders bottom\", is similar to the standard head and shoulders pattern, but inverted: with the head and shoulders top used to predict reversals in downtrends. This pattern is identified when the price action of a security meets the following characteristics: the price falls to a trough and then rises; the price falls below the former trough and then rises again; finally, the price falls again but not as far as the second trough. Once the final trough is made, the price heads upward, toward the resistance found near the top of the previous troughs.",
+    "img" : "img"
+  },
+  "Horn Bottom" : {
+    "desc" : "During a downtrend, two downward spikes separated by a week on the weekly chart are a confirmation of the horn bottom pattern. This pattern is a short-term bullish reversal pattern. The horns should be clearly visible and should not be apart of the congestion. The twin bottom pattern confirms as a valid horn bottom when price closes above the highest high in the three-week pattern.",
+    "img" : "img"
+  },
+  "Horn Top" : {
+    "desc" : "Horn Tops occur after an uptrend and consist of two taller than normal price spikes with roughly equivalent high prices (on a weekly chart) with a smaller price bar in between them. The pattern looks like two horns of a bull or the letter \"H\".",
+    "img" : "img"
+  },
+  "Inverted Cup and Handles" : {
+    "desc" : "An 'inverted cup and handle' is a chart pattern that indicates bearish continuation, triggering a sell signal. Think of it as an upside-down cup and handle. If you look at the regular cup and handle pattern, there is a distinct 'u' shape and downward handle, which is followed by a bullish continuation",
+    "img" : "img"
+  },
+  "Inverted Hammer" : {
+    "desc" : "The Inverted Hammer also forms in a downtrend and represents a likely trend reversal or support. It’s identical to the Hammer except for the longer upper shadow, which indicates buying pressure after the opening price, followed by considerable selling pressure, which however wasn’t enough to bring the price down below its opening value. Again, bullish confirmation is required, and it can come in the form of a long hollow candlestick or a gap up, accompanied by a heavy trading volume.",
+    "img" : "img"
+  },
+  "Marubozu" : {
+    "desc" : "Summary The Marubozu candlestick pattern is a single-candle formation that signals the market's determination to dominantly trade in one direction without a strong opposition from the other side, and force a close at the high or at the low of that particular session.",
+    "img" : "img"
+  },
+  "Morning Doji Star" : {
+    "desc" : "The Morning Doji Star is a bullish reversal pattern, being very similar to the Morning Star. The pattern, as every other candlestick pattern, should be confirmed on the next candles by breaking out of the resistance zone or a trendline. If the occurrence is confirmed, then its third line may act as a support area.",
+    "img" : "img"
+  },
+  "Morning Star" : {
+    "desc" : "A morning star is a visual pattern, so there are no particular calculations to perform. A morning star is a three-candle pattern with the low point on the second candle. However, the low point is only apparent after the close of the third candle. A morning star is a three-candle pattern with the low point on the second candle. However, the low point is only apparent after the close of the third candle.",
+    "img" : "img"
+  },
+  "Piercing Line" : {
+    "desc" : "Similar to the engulfing pattern, the Piercing Line is a two-candle bullish reversal pattern, also occurring in downtrends. The first long black candle is followed by a white candle that opens lower than the previous close. Soon thereafter, the buying pressure pushes the price up halfway or more (preferably two-thirds of the way) into the real body of the black candle.",
+    "img" : "img"
+  },
+  "Pipe Bottom" : {
+    "desc" : "The pipe bottom is a reversal pattern that appears as two adjacent price bars on a weekly chart. The bars should have similar (but not necessarily equal) price lows, and the bottoms of the bars should be highly visible — not cam- ouflaged by a nearby bar trading near the same level.",
+    "img" : "img"
+  },
+  "Pipe Top" : {
+    "desc" : "Pipe Tops occur after a short-term uptrend and consist, on a weekly chart, of two taller than normal price spikes with roughly equivalent high prices. A sell signal is triggered when price closes below the lowest low of the two spike price bars.",
+    "img" : "img"
+  },
+  "Rectangle Chart " : {
+    "desc" : "A rectangle is a chart pattern formed when the price is bounded by parallel support and resistance levels. A rectangle exhibits a period of consolidation or indecision between buyers and sellers as they take turns throwing punches but neither has dominated.",
+    "img" : "img"
+  },
+  "Resistance " : {
+    "desc" : "Resistance, or a resistance level, is the price at which the price of an asset meets pressure on its way up by the emergence of a growing number of sellers who wish to sell at that price. Resistance levels can be short-lived if new information comes to light that changes the overall market’s attitude toward the asset, or they can be long-lasting.",
+    "img" : "img"
+  },
+  "Resistance Trendline" : {
+    "desc" : "Similarly a resistance trend line is formed when a securities price increases and then rebounds at a pivot point that aligns with at least two previous resistance pivot points. Stock often begin or end trending because of a stock catalyst such as a product launch or change in management.",
+    "img" : "img"
+  },
+  "Rising Flag" : {
+    "desc" : "the volume does not always decline during the consolidation. The reason for this is that bearish, downward trending price moves are usually driven by investor fear and anxiety over falling prices. The further prices fall, the greater the urgency remaining investors feel to take action.",
+    "img" : "img"
+  },
+  "Rising Three" : {
+    "desc" : "Rising three methods is a bullish continuation candlestick pattern that occurs in an uptrend and whose conclusion sees a resumption of that trend.The decisive (fifth) strongly bullish candle is proof that sellers did not have enough conviction to reverse the prior uptrend and that buyers have regained control of the market.The rising three methods may be more effective if the initial bullish candlestick's wicks, denoting the high and low traded price for that period, are shallow.",
+    "img" : "img"
+  },
+  "Rising Wedge" : {
+    "desc" : "rising wedge patterns indicate the more likely potential of falling prices after a breakout of the lower trend line. Traders can make bearish trades after the breakout by selling the security short or using derivatives such as futures or options, depending on the security being charted. These trades would seek to profit on the potential that prices will fall.",
+    "img" : "img"
+  },
+  "Rising pennant " : {
+    "desc" : "Bearish pennants are continuation patterns that mark a pause in the movement of a price halfway through a strong downtrend, offering you an opportunity to go short. They occur just after a sharp drop in price and resemble a triangular flag as the price moves sideways, making gradually lower highs and higher lows.",
+    "img" : "img"
+  },
+  "Rounding Top" : {
+    "desc" : " Rounding top is a price pattern used in technical analysis. It is identified by daily price movements, in particular the tops, which when graphed, form a downward sloping curve. Technical analysis of price information suggests that a rounding top may form at the end of an extended upward trend and that this price pattern may indicate a reversal in the long-term price movement.",
+    "img" : "img"
+  },
+  "Shooting Star" : {
+    "desc" : "A shooting star is a bearish candlestick with a long upper shadow, little or no lower shadow, and a small real body near the low of the day. It appears after an uptrend. Said differently, a shooting star is a type of candlestick that forms when a security opens, advances significantly, but then closes the day near the open again.",
+    "img" : "img"
+  },
+  "Spinning top" : {
+    "desc" : "A spinning top is a candlestick pattern that has a short real body that's vertically centered between long upper and lower shadows. The candlestick pattern represents indecision about the future direction of the asset. It means that neither buyers nor sellers could gain the upper hand.",
+    "img" : "img"
+  },
+  "Support " : {
+    "desc" : "Support, or a support level, refers to the price level that an asset does not fall below for period of time. An asset's support level is created by buyers entering the market whenever the asset dips to a lower price. In technical analysis, the simple support level can be charted by drawing a line along the lowest lows for the time period being considered. The support line can be flat or slanted up or down with the overall price trend.",
+    "img" : "img"
+  },
+  "Support Trendlines" : {
+    "desc" : "A trendline is a line drawn  under pivot lows to show the prevailing direction of price. Trendlines are a visual representation of support in any time frame. They show direction and speed of price, and also describe patterns during periods of price contraction.",
+    "img" : "img"
+  },
+  "Symmetrical Triangle " : {
+    "desc" : "A symmetrical triangle chart pattern represents a period of consolidation before the price is forced to breakout or breakdown. A breakdown from the lower trendline marks the start of a new bearish trend, while a breakout from the upper trendline indicates the start of a new bullish trend. The pattern is also known as a wedge chart pattern.",
+    "img" : "img"
+  },
+  "Three Rising Valleys " : {
+    "desc" : "Robert Fischer describes the three rising valleys chart pat- tern as a reliable and stable three-point chart formation. The pattern consists of three consecutive higher lows, or val- leys, that have the same approximate shape or structure.",
+    "img" : "img"
+  },
+  "Three White Soldiers" : {
+    "desc" : "Three white soldiers is a bullish candlestick pattern that is used to predict the reversal of the current downtrend in a pricing chart. The pattern consists of three consecutive long-bodied candlesticks that open within the previous candle's real body and a close that exceeds the previous candle's high. These candlesticks should not have very long shadows and ideally open within the real body of the preceding candle in the pattern.",
+    "img" : "img"
+  },
+  "Three black crows" : {
+    "desc" : "Three black crows is a bearish candlestick pattern used to predict the reversal of a current uptrend.Traders use it alongside other technical indicators such as the relative strength index (RSI).The size of the three black crows candles and the shadow can be used to judge whether the reversal is at risk of a retracement.The opposite pattern of three black crows is three white soldiers, which indicates a reversal of a downtrend.",
+    "img" : "img"
+  },
+  "Triple Bottom " : {
+    "desc" : "The triple bottom chart pattern typically follows a prolonged downtrend where bears are in control of the market. While the first bottom could simply be normal price movement, the second bottom is indicative of the bulls gaining momentum and preparing for a possible reversal. The third bottom indicates that there's strong support in place and bears may capitulate when the price breaks through resistance levels.",
+    "img" : "img"
+  },
+  "Triple Top" : {
+    "desc" : "The triple top pattern occurs when the price of an asset creates three peaks at nearly the same price level. The area of the peaks is resistance. The pullbacks between the peaks are called the swing lows. After the third peak, if the price falls below the swing lows, the pattern is considered complete and traders watch for a further move to the downside.",
+    "img" : "img"
+  },
+  "Tweezer Bottom " : {
+    "desc" : "A tweezers bottom occurs when two candles, back to back, occur with very similar lows.Like many other candlestick patterns, tweezers occur quite frequently.Tweezers are more meaningful as part of other trends, especially pullbacks.",
+    "img" : "img"
+  },
+  "Tweezer top" : {
+    "desc" : "A tweezers topping pattern occurs when the highs of two candlesticks occur at almost exactly the same level following an advance.Like many other candlestick patterns, tweezers occur quite frequently.Tweezers are more meaningful as part of other trends, especially pullbacks.",
+    "img" : "img"
+  }
+}

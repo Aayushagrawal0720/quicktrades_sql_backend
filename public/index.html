@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Hello world</title>
+   </head>
+   <script src = "/socket.io/socket.io.js"></script>
+   
+   <script>
+      const socket = io();
+      socket.on('connect', (wsocket)=>{
+         console.log('socket connected to server');
+      });
+      socket.on('all', (data)=>{
+         console.log(data);
+         socket.emit('ltp',{exchange:'NSE', token:'1594'});
+         socket.on('1594', (ltpData)=>{
+            console.log(ltpData);
+         })
+      })
+   </script>
+   <body>Hello</body>
+</html>

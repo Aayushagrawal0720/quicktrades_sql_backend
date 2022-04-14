@@ -1,0 +1,27 @@
+{
+  "name": "quicktrades_sql_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "cron-jobs": "^1.0.3",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.2",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.0",
+    "nodejs": "0.0.0",
+    "pg": "^8.7.3",
+    "redis": "^4.0.3",
+    "smartapi-javascript": "^1.0.14",
+    "socket.io": "^4.4.1",
+    "uuid": "^8.3.2",
+    "ws": "^8.4.2"
+  }
+}

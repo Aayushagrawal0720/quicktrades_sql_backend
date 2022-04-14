@@ -1,0 +1,44 @@
+{
+  "MmSzP0BAx2QoLu0WTuXTSjBHsox2" : {
+    "Accuracy" : 72.72727272727273,
+    "certificate" : "chicigc",
+    "certificate_status" : "Pending",
+    "email" : "aayushagrawal0720@gmail.com",
+    "name" : "Aayush Agrawal",
+    "noti_token" : "fvW-lwSdSAah0-NsnuZgck:APA91bHRNP1eEHy3Ug7gIDAErnSRKKdGgfnnuuwUqGVfoxk7s4F1Zfg0dHKB1JcItlsISN80ShtF3nMjKNdFOigDGYcCgWOL62_ETOkU-UAqmFxjhLA00mhbJsMnWnU_1h-7IUhbYL8l",
+    "paymentDetails" : {
+      "Type" : "Saving",
+      "acc_no" : "20419981284",
+      "accname" : "fshznvxn",
+      "gpay" : "7415581675",
+      "ifsc_code" : "hchzzjgxnx",
+      "ppay" : "7415581675"
+    },
+    "phone_no" : "+917415581675",
+    "uid" : "MmSzP0BAx2QoLu0WTuXTSjBHsox2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 30400
+  },
+  "NOlAWFrK41e4TLYuW7w4Hvwjy2S2" : {
+    "Accuracy" : 60,
+    "certificate" : "aks3",
+    "certificate_status" : "Pending",
+    "email" : "akgupta7501@gmail.com",
+    "name" : "Akshay Gupta",
+    "noti_token" : "eotOoSZCTmqr6NeipTFBzo:APA91bGkbmPm7Sxn0FiJshf4_TMRQx4yI4nEPBivMccwWeCB6zSQfsJsywSGcpOgJUswOL-1Tr-7hoasdhl3c085fuiBRd-RtAU8b28yCgEh-NIEiHuiNMREV1yNjRK1IImrcK8dUu5J",
+    "phone_no" : "+918085261322",
+    "uid" : "NOlAWFrK41e4TLYuW7w4Hvwjy2S2",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 500
+  },
+  "mQonMMnZcbUTTur23B7ZEmPW7gA3" : {
+    "Accuracy" : 0,
+    "email" : "nikhilsoni7991@gmail.com",
+    "name" : "Nikhil Soni",
+    "noti_token" : "cv9FgxUnRuGb71w6ay_e9y:APA91bFG7KXTiuEgT17N7OavVLLZ2Q0S6H8FC4uo5r958nYf4J06iY7ChLdhaIWdE3TTJJoCqfIQutVWphaKdm0me8F2z8WVJD362yNtOoLjxtN2xQK4oq7J_3uDQVoJoEaIVtjN_4bh",
+    "phone_no" : "+917000295548",
+    "uid" : "mQonMMnZcbUTTur23B7ZEmPW7gA3",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/stockadvisory-f4983.appspot.com/o/profile_photo%2Fperson.png?alt=media&token=8633f6ac-c739-441e-a425-59311f2f8373",
+    "wallet" : 10000
+  }
+}
